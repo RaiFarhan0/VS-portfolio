@@ -1,0 +1,6 @@
+{
+  "name": "Developer Workspace Portfolio",
+  "description": "An interactive VS Code-inspired developer portfolio workspace where visitors can explore credentials, project catalogs, and work logs in an IDE interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
